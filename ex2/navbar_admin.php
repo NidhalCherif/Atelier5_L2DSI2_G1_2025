@@ -20,11 +20,14 @@
                 <li class="nav-item">
                     <a class="nav-link" href="login.php">Se connecter </a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="logout.php">Se déconnecter</a>
-                </li
 
-                    </ul>
+            </ul>
+            <ul class="navbar-nav me-left">
+                <li class="nav-item">
+                    <a class="nav-link" href="logout.php"><i class="bi bi-box-arrow-in-right"></i>Se déconnecter</a>
+                </li>
+
+            </ul>
 
         </div>
     </div>
